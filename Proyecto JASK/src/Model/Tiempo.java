@@ -5,8 +5,7 @@
 package Model;
 
 /**
- *
- * @author Karol
+ * Karol
  */
 public class Tiempo {
     private int Tiempo;
