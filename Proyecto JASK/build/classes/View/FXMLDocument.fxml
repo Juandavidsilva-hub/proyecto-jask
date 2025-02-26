@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.web.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="735.0" prefWidth="1012.0" style="-fx-background-color: #566F89;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="proyecto.jask.FXMLDocumentController">
+    <children>
+        <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
+      <WebView layoutX="35.0" layoutY="31.0" prefHeight="252.0" prefWidth="612.0" />
+      <WebView layoutX="35.0" layoutY="307.0" prefHeight="260.0" prefWidth="612.0" />
+      <TextArea layoutX="671.0" layoutY="31.0" prefHeight="537.0" prefWidth="306.0" />
+      <Button layoutX="81.0" layoutY="622.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="148.0" style="-fx-background-color: #78D4CB;" text="INICIAR" />
+      <Button layoutX="432.0" layoutY="622.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="148.0" style="-fx-background-color: #78D4CB;" text="TERMINAR" />
+      <Button layoutX="763.0" layoutY="622.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="148.0" style="-fx-background-color: #78D4CB;" text="REPORTE" />
+    </children>
+</AnchorPane>
