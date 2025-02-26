@@ -13,7 +13,7 @@ public class Tiempo {
     private int TiempoTotal;
 
     public int getTiempo() {
-        return Tiempo;
+        return Timpo;
     }
 
     public void setTiempo(int Tiempo) {
